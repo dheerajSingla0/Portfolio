@@ -1,4 +1,4 @@
-# Portfolio
+![Simulator Screen Shot - iPad Pro (12 9-inch) (6th generation) - 2023-09-20 at 15 36 22](https://github.com/dheerajSingla0/Portfolio/assets/57399197/d8406ae2-07c6-42aa-81fd-485c94c4c343)# Portfolio
 
 # Americana Foods
 
@@ -6,9 +6,15 @@
 
 iPad based kiosk application mounted in KFC stores across UAE, where users can come and use this application to order food instead of ordering on counter
 
+![Simulator Screen Shot - iPad Pro (12 9-inch) (6th generation) - 2023-09-20 at 15 35 49](https://github.com/dheerajSingla0/Portfolio/assets/57399197/43799ad4-d421-4ead-bdde-7c699c48968b)
+![Simulator Screen Shot - iPad Pro (12 9-inch) (6th generation) - 2023-09-20 at 15 35 43](https://github.com/dheerajSingla0/Portfolio/assets/57399197/4fc3aef5-3805-4f52-bd1d-ad571e4abe59)
+
 ## Hardees Kiosk (Internal App)
 
 iPad based kiosk application mounted in Hardees stores across UAE, where users can come and use this application to order food instead of ordering on counter
+
+![Simulator Screen Shot - iPad Pro (12 9-inch) (6th generation) - 2023-09-20 at 15 36 22](https://github.com/dheerajSingla0/Portfolio/assets/57399197/8f7328f8-cf92-456c-a2f1-076400cebfce)
+![Simulator Screen Shot - iPad Pro (12 9-inch) (6th generation) - 2023-09-20 at 15 36 49](https://github.com/dheerajSingla0/Portfolio/assets/57399197/0b008a4c-fedc-4acc-b2b0-bfc93cf5dea4)
 
 ## KFC - https://apps.apple.com/us/app/kfc-uae-order-food-online/id1498929827
 
