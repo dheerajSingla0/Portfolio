@@ -1,5 +1,4 @@
-![Simulator Screen Shot - iPad Pro (12 9-inch) (6th generation) - 2023-09-20 at 15 36 22](https://github.com/dheerajSingla0/Portfolio/assets/57399197/d8406ae2-07c6-42aa-81fd-485c94c4c343)# Portfolio
-
+PORTFOLIO
 # Americana Foods
 
 ## KFC Kiosk (Internal App)
